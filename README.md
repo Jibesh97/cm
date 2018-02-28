@@ -9,6 +9,6 @@ The project is released under version 3.0 of the GPL.
 
 ENVIRONMENT
 ================================================================================
-Apache-tomcat-7.0.47
+At least apache-tomcat 7.0.56 version.
 
 
