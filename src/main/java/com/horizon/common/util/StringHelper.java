@@ -12,6 +12,7 @@ public class StringHelper {
 		}
 		return columnName(columnName);
 	}
+	
 	/**
 	 * @return
 	 */
